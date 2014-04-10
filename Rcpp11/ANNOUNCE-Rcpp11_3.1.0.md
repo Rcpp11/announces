@@ -3,7 +3,7 @@ Hello,
 R version 3.1.0 was released today, and as always is welcome with great pleasure. One
 of the features that is of particular interest to me is the support for C++11. 
 I would encourage you to read 
-[Writing R Extensions](http://cran.r-project.org/doc/manuals/R-exts.html#Using-C_002b11-code)
+[Writing R Extensions](http://cran.r-project.org/doc/manuals/r-devel/R-exts.html#Using-C_002b_002b11-code)
 to familiarize yourself with 
 what this supports means and how to take advantage of it. C++11 is a major 
 upgrade of the C++ standard, making C++ more expressive, more efficient, more
