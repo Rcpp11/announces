@@ -140,8 +140,11 @@ documentation for Rcpp11:
 
 I hope to that between now and useR this year, I will make progress on the 2 first 
 items of the previous list. 
-   
-   
+
+Licensing
+=========
+
+Rcpp11 is licensed under the MIT license.
 
 Future
 ======
